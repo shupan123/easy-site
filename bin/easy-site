@@ -1,0 +1,3 @@
+#!/usr/bin/env node
+var easySite = require('..');
+easySite.handleCommandLine(process.cwd(), process.argv);
