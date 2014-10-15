@@ -1,6 +1,6 @@
 {
   "name": "easy-site",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "快速构建静态站",
   "bin": {
     "easy-site": "bin/easy-site"
@@ -26,7 +26,7 @@
     "site"
   ],
   "dependencies": {
-    "ejs": "~0.8.3",
+    "ejs": "~1.0.0",
     "glob": "~3.1.14",
     "async": "~0.1.22",
     "send": "~0.1.0",
